@@ -5,7 +5,8 @@ A program in which different search algorithms like...
  - bubble sort & jump search  
  - quick sort & binary search  
  - search in hash-tables  
- are compared.   
+   
+are compared.   
 
 <img src="https://github.com/FOswald86/JetbrainAcademy_Phonebook/blob/main/phonebook.gif" width="800" height="500" />  
 
