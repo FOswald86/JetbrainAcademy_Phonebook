@@ -1,6 +1,7 @@
 # JetbrainAcademy_Phonebook
   
-A program in which different search algorithms like...  
+A program where you read data from files an compare different search algorithms on it, like...  
+  
  - linear search  
  - bubble sort & jump search  
  - quick sort & binary search  
